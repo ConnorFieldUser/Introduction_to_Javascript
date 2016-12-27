@@ -1,2 +1,3 @@
 # Introduction_to_Javascript
-Bascic JavaScript functions.
+Basic JavaScript functions.
+Created on week seven at The Iron Yard.
